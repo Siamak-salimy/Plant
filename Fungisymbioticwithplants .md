@@ -70,3 +70,18 @@ Some fungi form relationships that may shift between parasitism and mutualism de
 3. **Ecosystem Services:** Fungi contribute to nutrient cycling, soil health, and plant diversity.
 
 Fungal symbioses with plants demonstrate a finely tuned evolutionary relationship essential for terrestrial ecosystems' functioning and resilience.
+
+The size of the genome for mycorrhizal fungi varies widely depending on the species, as mycorrhizal fungi encompass a diverse group of organisms, including arbuscular mycorrhizal fungi (AMF), ectomycorrhizal fungi, and others.
+
+Here are some general ranges for different types of mycorrhizal fungi:
+
+    Arbuscular Mycorrhizal Fungi (AMF)
+        Example: Rhizophagus irregularis, a widely studied AMF, has a genome size of approximately 153 megabases (Mb).
+        AMF genomes tend to be relatively small but can show significant variability due to their complex life cycles and interaction with plant hosts.
+
+    Ectomycorrhizal Fungi
+        These fungi, like Laccaria bicolor, have larger genomes.
+        Example: Laccaria bicolor has a genome size of approximately 65 Mb, but other ectomycorrhizal fungi can range between 50 Mb to over 200 Mb, depending on the species.
+
+    Other Mycorrhizal Types
+        Orchid mycorrhizal fungi and ericoid mycorrhizal fungi have not been as extensively sequenced, but their genome sizes typically fall within the range of 40–100 Mb.
