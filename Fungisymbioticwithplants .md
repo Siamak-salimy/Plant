@@ -1,4 +1,5 @@
-Fungi that form symbiotic relationships with plants are crucial for plant health, nutrient acquisition, and ecosystem functioning. These relationships can be mutualistic, where both the plant and the fungus benefit, or commensal/parasitic under specific conditions. Below are the key types of symbiotic interactions between fungi and plants:
+Fungi that form symbiotic relationships with plants are crucial for plant health, nutrient acquisition, and ecosystem functioning. 
+These relationships can be mutualistic, where both the plant and the fungus benefit, or commensal/parasitic under specific conditions. Below are the key types of symbiotic interactions between fungi and plants:
 ---
 
 ### **1. Mycorrhizal Fungi**
