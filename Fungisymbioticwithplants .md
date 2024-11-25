@@ -4,7 +4,6 @@ These relationships can be mutualistic, where both the plant and the fungus bene
 
 ### **1. Mycorrhizal Fungi**
 Mycorrhizal fungi are among the most well-known symbiotic fungi, forming associations with the roots of plants.
-
 - **Types of Mycorrhizae:**
   - **Ectomycorrhizae**:
     - Form a sheath around plant roots and penetrate between root cells without entering them.
