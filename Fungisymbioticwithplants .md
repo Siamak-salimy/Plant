@@ -12,7 +12,6 @@ Mycorrhizal fungi are among the most well-known symbiotic fungi, forming associa
     - Enter root cells and form structures called arbuscules for nutrient exchange.
     - Found in most vascular plants.
     - Enhance phosphorus and micronutrient absorption.
-
 - **Benefits to Plants:**
   - Improved nutrient uptake (especially phosphorus).
   - Enhanced drought resistance.
