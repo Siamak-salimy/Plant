@@ -69,7 +69,7 @@ Fungal symbioses with plants demonstrate a finely tuned evolutionary relationshi
 
 The size of the genome for mycorrhizal fungi varies widely depending on the species, as mycorrhizal fungi encompass a diverse group of organisms, including arbuscular mycorrhizal fungi (AMF), ectomycorrhizal fungi, and others.
 
-Here are some general ranges for different types of mycorrhizal fungi:
+### Here are some general ranges for different types of mycorrhizal fungi:
 
     Arbuscular Mycorrhizal Fungi (AMF)
         Example: Rhizophagus irregularis, a widely studied AMF, has a genome size of approximately 153 megabases (Mb).
