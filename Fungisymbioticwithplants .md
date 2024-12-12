@@ -72,10 +72,10 @@ The size of the genome for mycorrhizal fungi varies widely depending on the spec
 ### Here are some general ranges for different types of mycorrhizal fungi:
 
 **Arbuscular Mycorrhizal Fungi (AMF) **
-   Example: Rhizophagus irregularis, a widely studied AMF, has a genome size of approximately 153 megabases (Mb).
-   AMF genomes tend to be relatively small but can show significant variability due to their complex life cycles and interaction with plant hosts.
-** Ectomycorrhizal Fungi **
-   These fungi, like Laccaria bicolor, have larger genomes.
-   Example: Laccaria bicolor has a genome size of approximately 65 Mb, but other ectomycorrhizal fungi can range between 50 Mb to over 200 Mb, depending on the species.
-** Other Mycorrhizal Types **
-   Orchid mycorrhizal fungi and ericoid mycorrhizal fungi have not been as extensively sequenced, but their genome sizes typically fall within the range of 40–100 Mb.
+   Example: Rhizophagus irregularis, a widely studied AMF, has a genome size of approximately 153 megabases (Mb). </br>
+   AMF genomes tend to be relatively small but can show significant variability due to their complex life cycles and interaction with plant hosts.</br>
+** Ectomycorrhizal Fungi **</br>
+   These fungi, like Laccaria bicolor, have larger genomes.</br>
+   Example: Laccaria bicolor has a genome size of approximately 65 Mb, but other ectomycorrhizal fungi can range between 50 Mb to over 200 Mb, depending on the species.</br>
+** Other Mycorrhizal Types **</br>
+   Orchid mycorrhizal fungi and ericoid mycorrhizal fungi have not been as extensively sequenced, but their genome sizes typically fall within the range of 40–100 Mb.</br>
