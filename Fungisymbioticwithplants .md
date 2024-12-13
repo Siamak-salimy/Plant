@@ -17,7 +17,6 @@ Mycorrhizal fungi are among the most well-known symbiotic fungi, forming associa
   - Enhanced drought resistance.
   - Protection against soil pathogens.
   - Better soil aggregation through fungal hyphae.
-
 - **Benefits to Fungi:**
   - Access to carbohydrates and energy from the plant's photosynthesis.
 
