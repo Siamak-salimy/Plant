@@ -19,7 +19,6 @@ Mycorrhizal fungi are among the most well-known symbiotic fungi, forming associa
   - Better soil aggregation through fungal hyphae.
 - **Benefits to Fungi:**
   - Access to carbohydrates and energy from the plant's photosynthesis.
-
 ---
 ### **2. Endophytic Fungi**
 Endophytic fungi live within plant tissues, often without causing harm.
