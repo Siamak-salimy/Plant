@@ -29,7 +29,6 @@ Endophytic fungi live within plant tissues, often without causing harm.
   - Some produce secondary metabolites beneficial to the plant, such as alkaloids that deter herbivores.
 
 - **Example:** Neotyphodium species form symbioses with grasses, providing drought tolerance and pest resistance.
-
 ---
 
 ### **3. Lichen-Forming Fungi**
